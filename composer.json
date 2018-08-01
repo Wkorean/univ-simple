@@ -1,0 +1,12 @@
+{
+    "name": "wkorean/univ-simple",
+    "type": "silverstripe-theme",
+    "description": "Simple Theme for University on SilverStripe",
+    "authors": [
+          {
+              "name": "Paul Lee",
+              "email": "paul.lee@iconcordia.org",
+              "role": "Developer"
+          },
+      ]
+}
